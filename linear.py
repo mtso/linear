@@ -12,7 +12,7 @@
 ## create_user: writes info to a text file
 ## account contains current index
 
-## communication: how?
+## user peer-to-peer communication: how?
 
 ## currency?
 ## how to gain "energy" to move?
